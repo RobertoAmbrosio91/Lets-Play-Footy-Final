@@ -1,0 +1,81 @@
+                
+/* register page */
+
+.form-container{
+    border: 1px solid red;
+    border-radius: 5%;
+    padding: 10%;
+    padding-left: 21%;
+    
+}
+
+/* signup page */
+
+.loginform{
+    width: 80%;
+    margin: auto;
+    margin-top: 20%;
+}
+
+.paralogin{
+    color: rgb(110, 109, 109);
+}
+
+.anclogin{
+    text-decoration: none;
+}
+
+/* homepage */
+
+.landimgrow{
+    background-image: url("../IMAGES/fachry-zella-devandra-Yta-zdP9PVM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    height:600px;
+}
+
+.landimgrow  h1{
+    color: white;
+    /* margin-top: 30%;
+    margin-left: -5%; */
+    text-align: center;
+}
+
+.homebtn{
+    background-color: blue;
+}
+
+/* .btnsection{
+    margin-top: 35%;
+        margin-left: 20%;
+} */
+
+
+/* navbar */
+
+.signupbtn{
+    background-color: white;
+    color: red;
+    border-radius: 40%;
+   margin-right: 10%;
+   margin-left: 5%;
+    
+}
+
+
+.srchinput{
+    width: 150px;
+}
+
+
+
+ .player {
+     border-radius: 50%;
+ }
+
+
+
+
+
